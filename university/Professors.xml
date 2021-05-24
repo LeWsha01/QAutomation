@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Professors>
+  <Professor>
+    <name>FullName1</name>
+    <Сourses>
+      <Cource Name="name1" >
+        <id>1</id>
+      </Cource>
+      <Cource Name="name2" >
+        <id>2</id>
+      </Cource>
+    </Сourses>
+  </Professor>
+  <Professor>
+    <name>FullName2</name>
+    <Сourses>
+      <Cource Name="name3" >
+        <id>3</id>
+      </Cource>
+      <Cource Name="name4" >
+        <id>4</id>
+      </Cource>
+    </Сourses>
+  </Professor>
+  <Professor>
+    <name>FullName3</name>
+    <Сourses>
+      <Cource Name="name5" >
+        <id>5</id>
+      </Cource>
+      <Cource Name="name6" >
+        <id>6</id>
+      </Cource>
+    </Сourses>
+  </Professor>
+  <Professor>
+    <name>FullName4</name>
+    <Сourses>
+      <Cource Name="name7" >
+        <id>7</id>
+      </Cource>
+      <Cource Name="name8" >
+        <id>8</id>
+      </Cource>
+    </Сourses>
+  </Professor>   
+</Professors>
